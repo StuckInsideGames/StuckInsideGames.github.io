@@ -1,5 +1,5 @@
 ---
-layout: wolf
+layout: work
 title: Wolf
 slug: /wolf
 items:
