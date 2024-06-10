@@ -6,9 +6,9 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme.
+  Welcome! This site is an exploratory project for Stuck Inside Games.
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  You can find the main website <a href="https://stuckinsidegames.com">at the official page</a>.
 </p>
